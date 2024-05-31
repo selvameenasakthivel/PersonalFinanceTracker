@@ -1,7 +1,7 @@
 # FinanceTracker
 
 ## Introduction
-This project is a Spring Boot based RESTful API service for a basic Personal Finance Tracker. It allows users to record expenses, incomes, and budgets, and generate financial reports. The project supports an in-memory data source or a legacy database.
+This project is a Spring Boot based RESTful API service for a basic Personal Finance Tracker. It allows users to record expenses, incomes, and budgets, and generate financial reports. The project supports an in-memory data database.
 
 ## Features
 - **Expenses:**
